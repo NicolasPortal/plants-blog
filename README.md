@@ -1,1 +1,1 @@
-Plant blog using copntentuful and graphql
+Plant blog using copntentuful and graphql in next js
